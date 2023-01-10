@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-slider/static/css/main.b4cf9182.css",
+    "main.js": "/r-slider/static/js/main.45d52964.js",
+    "index.html": "/r-slider/index.html",
+    "main.b4cf9182.css.map": "/r-slider/static/css/main.b4cf9182.css.map",
+    "main.45d52964.js.map": "/r-slider/static/js/main.45d52964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cf9182.css",
+    "static/js/main.45d52964.js"
+  ]
+}
